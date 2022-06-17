@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lohine and I'm from Brazil.
 - 👀 I’m interested in new technologies 
-- 🌱 I’m currently learning java script, but I'm studyng Mechatronics Engineering.
+- 🌱 I’m currently learning java script, but I'm studyng Software Engineering.
 - 💞️ I’m looking to collaborate on initial programming and present some projects.
 - 📫 How to reach me in my Instagram @lmlohine or my Linkedin Lohine Mussi. 
 
