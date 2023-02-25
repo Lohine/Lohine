@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
 <div align="center">
-  <a href="https://github.com/lohine
+  <a href="https://github.com/Lohine
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lohine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohine&layout=compact&langs_count=7&theme=dracula"/>
   </a>
