@@ -23,7 +23,7 @@
   <img align="center" alt="Icon-Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript"/>
   <img align="center" alt="Icon-Saas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass"/>
 </div>
-  <img align="center" alt="Icon-Sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sql"/>
+  <img align="center" alt="Icon-Sql" height="40" width="40" src="https://img.icons8.com/ios-glyphs/256/sql.png" title="Sql"/>
 </div>
 
 <div style="display: inline_block"><br>
