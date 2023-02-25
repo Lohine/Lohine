@@ -4,6 +4,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lohine&theme=synthwave_icons=true)
+
 
 <div style="display: inline_block"><br>
  
