@@ -4,7 +4,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
-![Lohine GitHub stats](https://github-readme-stats.vercel.app/api?username=lohine&theme=radical_icons=true)
+![Lohine](https://github-readme-stats.vercel.app/api?username=lohine&theme=radical_icons=true)
 
 
 <div style="display: inline_block"><br>
