@@ -39,7 +39,7 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/Lohine/Lohine/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/Lohine/Lohine/blob/output/github-contribution-grid-snake.svg)
 <!---
 - 👋 Hi, I’m @Lohine and I'm from Brazil.
 - 👀 I’m interested in new technologies 
