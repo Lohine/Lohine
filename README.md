@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/lohine-mussi-9983671b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/lohinemussi/" target="_blank">
+  <a href="https://www.instagram.com/lmlohine/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:lohine.mussi@gmail.com" target="_blank">
@@ -39,7 +39,7 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/luisfcodes/luisfcodes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lohine/lohine/blob/output/github-contribution-grid-snake.svg)
 <!---
 - 👋 Hi, I’m @Lohine and I'm from Brazil.
 - 👀 I’m interested in new technologies 
