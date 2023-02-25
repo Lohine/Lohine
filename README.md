@@ -1,9 +1,52 @@
+## Hi!! I'm Lohine Mussi
+
+👩🏻 Welcome to my Github profile! Currently, my biggest goal is to be a software engineer . I'm studying and would like to find my first job in the area, I believe the  technology has always aroused great interest in me. I focused on the front-end area and in this profile I present some projects. 
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+<div align="center">
+  <a href="https://github.com/luisfcodes">
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lohine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfcodes&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
+<div style="display: inline_block"><br>
+  <strong>Languages and tools that I have knowledge of so far:</strong><br>
+  <img align="center" alt="Icon-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTMl">
+  <img align="center" alt="Icon-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
+  <img align="center" alt="Icon-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+  <img align="center" alt="Icon-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">
+  <img align="center" alt="Icon-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"/>
+  <img align="center" alt="Icon-VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code">
+  <img align="center" alt="Icon-Angular" height="45" width="45" src="https://user-images.githubusercontent.com/12867589/212189633-87cb3b62-310c-47f8-a1b5-5972203fa154.svg" title="Angular"/>
+  <img align="center" alt="Icon-Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript"/>
+  <img align="center" alt="Icon-Saas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass"/>
+</div>
+  <img align="center" alt="Icon-Sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sql"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <strong>Contact me:</strong><br>
+  <a href="https://www.linkedin.com/in/lohine-mussi-9983671b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/lohinemussi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:lohine.mussi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+![Snake animation](https://github.com/luisfcodes/luisfcodes/blob/output/github-contribution-grid-snake.svg)
+<!---
 - 👋 Hi, I’m @Lohine and I'm from Brazil.
 - 👀 I’m interested in new technologies 
-- 🌱 I’m currently learning java script, but I'm studyng Software Engineering.
+- 🌱 I’m currently learning angular, but I'm studyng Software Engineering.
 - 💞️ I’m looking to collaborate on initial programming and present some projects.
 - 📫 How to reach me in my Instagram @lmlohine or my Linkedin Lohine Mussi. 
-
+--->
 <!---
 Lohine/Lohine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
