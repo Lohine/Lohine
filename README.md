@@ -4,7 +4,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
-<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lohine&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api?username=lohine&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohine&theme=aura&hide_border=false&&layout=compact"/>
 
 
 <div style="display: inline_block"><br>
