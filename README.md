@@ -4,11 +4,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 <div align="center">
   <a href="https://github.com/Lohine">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lohine &count_private=true&include_all_commits=true&show_icons=true&theme=aura&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor-ferreira&theme=aura&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohine&theme=aura&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
