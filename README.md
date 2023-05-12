@@ -37,8 +37,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/b
  
  
 
-<div style="display: inline_block"><br>
-  <strong>Contact me:</strong><br>
+<h3 align="center">Contact me</h3>
  
   <a href="https://www.linkedin.com/in/lohine-mussi-9983671b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
